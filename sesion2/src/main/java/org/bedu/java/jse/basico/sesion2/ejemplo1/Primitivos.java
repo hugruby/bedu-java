@@ -40,7 +40,7 @@ public class Primitivos {
         valorChar++;
         System.out.println("valorChar: " + valorChar);
 
-
+        //RETO 1
 
         byte valorByte2 = Byte.MAX_VALUE;
         valorByte2+=2;

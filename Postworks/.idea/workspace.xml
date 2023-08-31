@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b7ca634-f296-4823-b48c-89cc2b5aa4c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ListaTareas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ListaTareasMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tarea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion2/src/main/java/org/bedu/java/jse/basico/sesion2/ejemplo1/Reto2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/src/main/java/Contador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/src/main/java/Lector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/src/main/java/Mascota.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/src/main/java/Prework.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/src/main/java/Prework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/src/main/java/Reto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/src/main/java/Vehiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion4/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion4/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion4/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion4/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion4/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion4/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion4/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion4/src/main/java/ejemplo1/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion4/src/main/java/ejemplo1/Inicializacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion4/src/main/java/ejemplo2/Automovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion4/src/main/java/ejemplo2/Ejemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/src/main/java/Herencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/src/main/java/ejemplo1/Ejemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/src/main/java/ejemplo1/MiembrosEstaticos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/src/main/java/ejemplo2/FiguraPlana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/src/main/java/ejemplo2/Herencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/src/main/java/ejemplo2/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/src/main/java/ejemplo3/Equipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/src/main/java/ejemplo3/Sobrecarga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/src/main/java/reto1/Bloques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/src/main/java/reto2/Dba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/src/main/java/reto2/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/src/main/java/reto2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/src/main/java/reto2/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion5/src/main/java/reto2/Programador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion8/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion8/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion8/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion8/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion8/src/main/resources/cursos/bedu/bases de datos/avanzado.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion8/src/main/resources/cursos/bedu/bases de datos/basico.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion8/src/main/resources/cursos/bedu/bases de datos/intermedio.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion8/src/main/resources/cursos/bedu/java/avanzado.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion8/src/main/resources/cursos/bedu/java/basico.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion8/src/main/resources/cursos/bedu/java/intermedio.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion8/src/main/resources/cursos/bedu/python/avanzado.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion8/src/main/resources/cursos/bedu/python/basico.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion8/src/main/resources/cursos/bedu/python/intermedio.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion8/src/main/resources/cursos/cursos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion8/src/main/resources/cursos/otros/nohayotros.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesion2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sesion2/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesion2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sesion2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesion2/src/main/java/org/bedu/java/jse/basico/sesion2/ejemplo1/Primitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sesion2/src/main/java/org/bedu/java/jse/basico/sesion2/ejemplo1/Primitivos.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2ThZ8HUmAiDvsdoIshB67zNkKcG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="ListaTareasMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListaTareasMain" />
+      <module name="Postworks.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ListaTareasMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b7ca634-f296-4823-b48c-89cc2b5aa4c7" name="Changes" comment="" />
+      <created>1691497114563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691497114563</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ListaTareasMain.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
